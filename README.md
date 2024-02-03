@@ -11,3 +11,9 @@ The main objective of the portfolio analysis is to get more familiar with the co
 ![](Chart_req-1.png)
 ![](Chart_req-2.png)
 
+Executed these problem statement in SQL server management studio
+![]()
+
+Created Dashboards with these results in Power Bi
+![]()
+
