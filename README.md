@@ -12,8 +12,11 @@ The main objective of the portfolio analysis is to get more familiar with the co
 ![](Chart_req-2.png)
 
 Executed these problem statement in SQL server management studio
-![]()
+
+![](SQLQuery1.sql.png)
 
 Created Dashboards with these results in Power Bi
-![]()
+
+![](Power_Bi-Home.png)
+![](Power_Bi-Sellers.png)
 
